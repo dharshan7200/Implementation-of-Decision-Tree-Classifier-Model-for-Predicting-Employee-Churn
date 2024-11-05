@@ -66,13 +66,30 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![Screenshot 2024-10-29 134252](https://github.com/user-attachments/assets/123e81b0-55b8-4512-9169-794060876710)
+## DATA HEAD
+![SS1](https://user-images.githubusercontent.com/115924983/200124488-77dbf1c7-6c9b-4fb8-9f0b-b3cb762caedd.png)
 
-## Accuracy:
-![Screenshot 2024-10-29 134055](https://github.com/user-attachments/assets/45e62792-d4dd-46f8-80db-98a53fdb4828)
+## DATA INFO
+![SS2](https://user-images.githubusercontent.com/115924983/200124505-b2db3dd5-48e9-41e0-8d47-877ceda29d32.png)
 
-## New Predicted:
-![Screenshot 2024-10-29 134125](https://github.com/user-attachments/assets/b8c31e63-a260-481b-b7c5-64b08627817c)
+## DATA ISNULL
+![SS3](https://user-images.githubusercontent.com/115924983/200124524-691cd13c-a57f-43c5-8f28-bf71c3fe21c9.png)
+
+## DATA LEFT
+![SS4](https://user-images.githubusercontent.com/115924983/200124541-49e1d70e-fa4d-43a3-83d6-ce07717a061a.png)
+
+## X HEAD
+![SS5](https://user-images.githubusercontent.com/115924983/200124554-37ee7083-8de7-419a-947b-361e2cec703e.png)
+
+## DATA FIT
+![SS6](https://user-images.githubusercontent.com/115924983/200124575-fda6203d-da17-4781-b79c-ea4f6b717d4e.png)
+
+## ACCURACY
+![SS7](https://user-images.githubusercontent.com/115924983/200124598-d38e91c4-c3a2-4714-98d2-c29bbf82b92b.png)
+
+## PREDICTED VALUES
+![SS8](https://user-images.githubusercontent.com/115924983/200124634-33187054-9870-428b-b3af-40aa5e71fc7f.png)
+
 
 
 ## Result:
